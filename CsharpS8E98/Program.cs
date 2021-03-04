@@ -8,6 +8,7 @@ namespace CsharpS8E98
         {
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como está hoje?");
 
         }
     }
